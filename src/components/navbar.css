@@ -1,0 +1,38 @@
+/* Navbar container */
+.navbar {
+    background-color: grey;
+    padding: 10px;
+    
+  }
+  #my-navbar {
+    padding: 10px;
+  }
+
+  .custom-font {
+    font-family: 'Exo 2', sans-serif;
+  }
+  
+  /* Navbar brand */
+  .navbar-brand {
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  
+  /* Navbar links */
+  .navbar-nav .nav-link {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+    font-size: 18px;
+  }
+  
+  /* Active link */
+  .navbar-nav .nav-link.active {
+    font-weight: bold;
+  }
+
+
+  
+  

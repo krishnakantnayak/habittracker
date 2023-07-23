@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@1,900&family=Poppins:ital,wght@1,900&display=swap');
+.App {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+}
+
+.homeTitle{
+  
+    margin-top: 3%;
+    font-size: 1rem;
+  }
+
+label{
+  font-weight: bold;
+}
+.main-div{
+  
+  border-style: groove;
+  margin-left: 12%;
+  margin-right: 12%;
+
+}
+.fa-solid:hover{
+  cursor: pointer;
+}
+.details{
+  width:100%;
+}
